@@ -4,3 +4,6 @@ venv/
 __pycache__/
 *.pyc
 data/Complete.csv
+Complete
+Complete.csv
+*.xlsx
