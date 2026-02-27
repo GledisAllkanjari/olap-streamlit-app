@@ -29,9 +29,8 @@ to answer questions about pricing, availability, categories, and brands.
 1. Go to console.anthropic.com and create an API key
 2. Open the .streamlit/secrets.toml file
 3. Add your key:
-   ANTHROPIC\_API\_KEY = "sk-ant-your-key-here"
 
-   //ANTHROPIC\_API\_KEY = "sk-ant-api03-C9n8lncGN\_qygqLH7ixL3tGnp7oAeEmgXp4JiG-ByJjECX61a9sMZYNcFyzg71yLj84pVGUeURWH6FvYJhKKbQ-yR7W6QAA"
+   ANTHROPIC\_API\_KEY = "sk-ant-api03-C9n8lncGN\_qygqLH7ixL3tGnp7oAeEmgXp4JiG-ByJjECX61a9sMZYNcFyzg71yLj84pVGUeURWH6FvYJhKKbQ-yR7W6QAA"
 
    ## How to Run
 
